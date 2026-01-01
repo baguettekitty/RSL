@@ -18,7 +18,7 @@ point + move to point = follow me
 
 /e point + shake head = danger
 
-90 turn = other
+90 degree turn = other
 
 sideways back and forth = game
 
