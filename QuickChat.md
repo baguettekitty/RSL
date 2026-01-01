@@ -28,7 +28,9 @@ jump = me
 Turn around and look back = didn’t understand
 
 360 spin = question mode
+
 360 + turn back and forth = what
 
 360 + point = how are you
+
 360 + dance1 + cheer = can we be friends
