@@ -1,6 +1,6 @@
 ## Roblox Sign Language (RSL)
 
-Roblox Sign Language (RSL) is a replacement for chatting due to the new Roblox age verfication requirement to chat
+Roblox Sign Language (RSL) is a replacement for chatting due to the new Roblox age verification requirement to chat
 
 - It is very messy and bare bones right now, but it will hopefully evolve into something better
 
