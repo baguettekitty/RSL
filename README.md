@@ -9,7 +9,7 @@ Roblox Sign Language (RSL) is a replacement for chatting due to the new Roblox a
 
 ## Examples for quick chat:
 
-"360 spin + /e dance1 + sideways back and forth" = can we play a game? (we play game?)
+"360 spin + /e dance1, + sideways back and forth" = can we play a game? (we play game?)
 
 - Then they could answer with "shake head" or "/e cheer" = no, yes (negative, positive)
 
