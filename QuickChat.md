@@ -5,6 +5,7 @@ Roblox Sign Language (RSL)
 /e cheer = positive
 
 shake head = negative
+
 shake head 2x = kill
 
 /e wave = hi
