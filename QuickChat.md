@@ -10,8 +10,11 @@ shake head 2x = kill
 /e wave = hi
 
 /e point at person
+
 /e point at anything else = look there
+
 point + move to point = follow me
+
 /e point + shake head = danger
 
 90 turn = other
