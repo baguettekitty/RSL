@@ -1,5 +1,3 @@
-Roblox Sign Language (RSL)
-
 /e dance1 r6 = /e dance r15 - Because r15 /e dance is always the same
 
 /e cheer = positive
