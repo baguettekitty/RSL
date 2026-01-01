@@ -22,7 +22,10 @@ point + move to point = follow me
 sideways back and forth = game
 
 jump = me
+
+
 /e point at person = you
+
 /e dance1 = we
 
 Turn around and look back = didn’t understand
